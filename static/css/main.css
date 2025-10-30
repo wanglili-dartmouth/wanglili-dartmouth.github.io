@@ -1,24 +1,16 @@
 @import "./styles.css"; 
 
-:root{
-    --h-title-color: #0F0F0F;       /* 主色调（深灰） */
-    --h-text-light: #e0e0e0;        /* 辅助浅灰文字 */
-    --h-bg-dark: #121212;           /* 背景深灰 */
-}
-
-body {
-    background-color: var(--h-bg-dark);
-    color: var(--h-text-light);
+:root {
+    --h-title-color: #0F0F0F; /* 主色调改为深黑 */
 }
 
 .header {
-    border-bottom: solid 2px #0F0F0F;
+    border-bottom: solid 2px #0F0F0F; /* 原为 var(--bs-blue)，统一改为深黑 */
     z-index: 10000;
-    background-color: var(--h-bg-dark);
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: var(--h-title-color); /* 保留结构，颜色已变 */
 }
 
 .top-section {
@@ -27,12 +19,10 @@ body {
     background-position: center;
     background-size: cover;
     height: 25rem;
-    color: var(--h-text-light);
 }
 
 .top-section h2 {
     font-weight: 400;
-    color: var(--h-text-light);
 }
 
 .top-section .top-section-content {
@@ -50,27 +40,25 @@ body {
     background: rgba(0, 0, 0, 0.5);
 }
 
-section header h2{
+section header h2 {
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: var(--h-text-light);
+    color: var(--h-title-color); /* 改为深黑色标题 */
     font-size: 2.3rem;
     line-height: 4rem;
 }
 
-section .main-body{
+section .main-body {
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
-    color: var(--h-text-light);
 }
 
-/* 渐变背景调为深色版本 */
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(45deg, #1a1a1a, #0f0f0f) !important;
+    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #2a2a2a, #1a1a1a) !important;
+    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
 
 .on-top {
@@ -98,7 +86,7 @@ section .main-body{
 #avatar {
     position: relative;
     height: 0;
-    top:min(-65px,max(-100px,calc(-1*100vw/12)));
+    top: min(-65px, max(-100px, calc(-1 * 100vw / 12)));
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
@@ -106,8 +94,8 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+    height: max(130px, min(200px, calc(100vw / 6)));
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 @media screen and (max-width: 991px) {
