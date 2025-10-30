@@ -1,16 +1,18 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 中国国家优秀留学生奖学金, 2024.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- AAAI 最佳论文奖, 2021.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+- 上海交通大学优秀毕业生, 2017.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+- 数学建模美赛一等奖, 2016.
 
-- Freshman Scholarship (CUMT), 2022.
+- 上海交通大学优秀奖学金, 2014-2015.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 全国信息学奥林匹克NOI银牌, 2012.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- 国际信息学奥林匹克竞赛中国队选拔CTSC铜牌, 2012.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 亚洲与太平洋地区信息学奥林匹克APIO铜牌, 2012.
+
+

@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### 工作单位
+南京中医药大学, 人工智能与信息技术学院， 副教授 2025-
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 联系方式
 
-#### Contact
+Email: wanglili19940926[at]gmail.com
 
-Email: senli[at]fas.harvard.edu
+#### 教育经历
+博士, 达特茅斯学院, 计算机科学与技术, 2017—2024.\
+本科, 上海交通大学, 计算机科学与技术, 2013—2027.
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 研究兴趣
+人工智能, 数据挖掘, 图神经网络, 图嵌入, 自然语言处理
 
